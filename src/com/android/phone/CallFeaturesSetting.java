@@ -294,7 +294,7 @@ public class CallFeaturesSetting extends PreferenceActivity
     private CheckBoxPreference mVoicemailNotificationVibrate;
     private SipSharedPreferences mSipSharedPreferences;
     private ListPreference mFlipAction;
-    private PreferenceScreen mButtonBlacklist;
+    private PreferenceScreen mButtonBlacklist;f
 
     private class VoiceMailProvider {
         public VoiceMailProvider(String name, Intent intent) {
