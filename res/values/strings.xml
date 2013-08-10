@@ -379,6 +379,7 @@
     <!-- Mobile network settings, summary for preferred network mode LTE / WCDMA[CHAR LIMIT=100] -->
     <string name="preferred_network_mode_lte_wcdma_summary">Preferred network mode: LTE / WCDMA</string>
 
+
     <string-array name="preferred_network_mode_choices">
         <item>LTE / WCDMA</item>
         <item>LTE</item>
@@ -1499,14 +1500,5 @@
     <string name="noise_suppression_title">Noise suppression</string>
     <string name="noise_suppression_summary">Enable noise suppression for calls</string>
     <!-- End Noise suppression -->
-
-    <!-- Voice quality filter -->
-    <string name="voice_quality_preferences_title">Voice quality</string>
-    <string name="voice_quality_summary">Using profile: <xliff:g id="value">%s</xliff:g></string>
-    <!-- Do not remove those, they're used from overlays. -->
-    <string name="voice_quality_entry_normal">Normal</string>
-    <string name="voice_quality_entry_clear">Clear</string>
-    <string name="voice_quality_entry_crisp">Crisp</string>
-    <string name="voice_quality_entry_bright">Bright</string>
 
 </resources>

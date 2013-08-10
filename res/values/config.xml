@@ -123,15 +123,6 @@
     <bool name="config_operator_selection_expand" translatable="false">true</bool>
     <bool name="config_prefer_2g" translatable="false">true</bool>
 
-    <!-- Voice quality filter parameter
-         Set this if your device's libaudio has a parameter to adjust voice quality
-         (don't forget to also overlay to value array in that case).
-         Leave empty to disable the feature. -->
-    <string name="voice_quality_param"></string>
-
-    <!-- LTE/CDMA network mode to use for toggleLTE(true). -->
-    <integer name="toggleLTE_lte_cdma_nt_mode">-1</integer>
-
     <!-- Sprint Message Wait Indicator Quirk
          If true, message wait indicators are hidden by default on this device
          unless the user enables it in Call Settings.  This quirk is necessary
