@@ -162,9 +162,9 @@
     <string name="preferred_network_mode_wcdma_perf_summary" msgid="8521677230113533809">"首选网络模式：首选 WCDMA"</string>
     <string name="preferred_network_mode_gsm_only_summary" msgid="3352445413437453511">"首选网络模式：仅限 GSM"</string>
     <string name="preferred_network_mode_wcdma_only_summary" msgid="2836897236221063413">"首选网络模式：仅限 WCDMA"</string>
-    <string name="preferred_network_mode_gsm_wcdma_summary" msgid="3161255745326408587">"首选网络模式：GSM/WCDMA"</string>
+    <string name="preferred_network_mode_gsm_wcdma_summary" msgid="3161255745326408587">"首选网络模式：GSM / WCDMA"</string>
     <string name="preferred_network_mode_cdma_summary" msgid="3175690187294334241">"首选网络模式：CDMA"</string>
-    <string name="preferred_network_mode_cdma_evdo_summary" msgid="8332063064712726618">"首选网络模式：CDMA/EvDo"</string>
+    <string name="preferred_network_mode_cdma_evdo_summary" msgid="8332063064712726618">"首选网络模式：CDMA / EvDo"</string>
     <string name="preferred_network_mode_cdma_only_summary" msgid="1309770926198634150">"首选网络模式：仅限 CDMA"</string>
     <string name="preferred_network_mode_evdo_only_summary" msgid="8472220691721269155">"首选网络模式：仅限 EvDo"</string>
     <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary" msgid="4726682079415227330">"首选网络模式：CDMA/EvDo/GSM/WCDMA"</string>
